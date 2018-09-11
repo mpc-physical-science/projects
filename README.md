@@ -4,5 +4,5 @@ This repository holds current and archived information on projects of the Physic
 
 This is a .git repository, read more [here](/git.md).
 
-Project todo lists are plaintext files. More structured documents are formatted using MarkDown. For more a bout MarkDown, see [here](/markdown.md).
+Project todo lists are plaintext files. More structured documents are formatted using Markdown. For more a bout Markdown, see [here](/markdown.md).
 
