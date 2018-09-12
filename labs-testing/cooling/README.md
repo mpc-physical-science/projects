@@ -37,7 +37,13 @@ The results of the fits are in the table below. It should be noted that the rele
 | 2  |   26.0  | 20.9      | 8.50^10-5|   27.1      |   23.6       | 495   |
 | 3  |   16.4  | 15.7      | 8.83^10-4|   24.4      |   23.4       | 667   |
 
-The additional variables ΔT = T - T_env and ln(ΔT) were computed. Graphing ln(ΔT) resulted in reasonably straight lines.
+Here is a typical fit from Capstone:
+
+![graph of typical fit](T.png "Graph of T vs Time, showing exponential fit")
+
+The additional variables ΔT = T - T_env and ln(ΔT) were computed. Graphing ln(ΔT) resulted in reasonably straight lines, as seen below:
+
+![graph of ln delta T vs Time](ln_delta_T.png "Graph of ln delta T vs Time")
 
 
 ## Resources
