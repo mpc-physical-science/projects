@@ -1,6 +1,6 @@
 # Kirchoff Flame Apparatus
 
-The present version of this apparatus uses a white, incandescent source passed through a sodium flame and into a spectroscope to demonstrate an absorption spectrum. The components of the setup are freee-standingm, and currently include:
+The present version of this apparatus uses a white, incandescent source passed through a sodium flame and into a spectroscope to demonstrate an absorption spectrum. The components of the setup are free-standing, and currently include:
 
 * Incandescent source
 * Bunsen burner with screen/spoons to hold salt over the flame
